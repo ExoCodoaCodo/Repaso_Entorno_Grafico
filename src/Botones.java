@@ -107,7 +107,7 @@ public class Botones extends javax.swing.JFrame {
     }//GEN-LAST:event_btnaceptarActionPerformed
 
     private void btnaceptarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnaceptarMouseClicked
-        // TODO add your handling code here:
+        // Metodos al boton aceptar
         
         jLabel1.setVisible(false);
         
